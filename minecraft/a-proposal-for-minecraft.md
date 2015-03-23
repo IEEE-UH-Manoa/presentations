@@ -60,6 +60,7 @@ Requirements are taken from [here.](http://minecraft.gamepedia.com/Server/Requir
 * Players: 45+
 * CPU: Intel COre 2 Duo 
 * Ram: 5GB 
-
-
+* HDD: 35 GB empty space
+* WAN Up: 14 Mbit/s
+* Wan Down: 7 Mbit/s
 
